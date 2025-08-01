@@ -260,7 +260,14 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 👥 Equipe
 
-Desenvolvido durante o HackTown 2025 para resolver o problema de navegação na programação do evento.
+![Team Photo](./images/team.jpeg)
+
+Desenvolvido durante o HackTown 2025 por uma equipe dedicada a resolver o problema de navegação na programação do evento.
+
+### 🚀 Nosso Time
+Uma equipe multidisciplinar que combinou expertise em desenvolvimento, design e experiência do usuário para criar uma solução completa e intuitiva para os participantes do HackTown 2025.
+
+**Missão**: Facilitar a experiência dos participantes do HackTown, tornando a navegação por mais de 1000 atividades uma tarefa simples e personalizada.
 
 ## 📞 Suporte
 
