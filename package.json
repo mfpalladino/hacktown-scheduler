@@ -1,0 +1,27 @@
+{
+  "name": "hacktown-scheduler",
+  "version": "1.0.0",
+  "description": "Aplicação web para facilitar a navegação e escolha de atividades do HackTown 2025",
+  "main": "server-simple.js",
+  "scripts": {
+    "start": "node server-simple.js",
+    "dev": "nodemon server-simple.js",
+    "build": "npm run build:client",
+    "build:client": "cd client && npm run build"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "node-cron": "^3.0.2",
+    "sqlite3": "^5.1.6"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "keywords": ["hacktown", "scheduler", "events", "programming"],
+  "author": "HackTown Scheduler Team",
+  "license": "MIT"
+}
